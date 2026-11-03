@@ -54,3 +54,6 @@ Core implementation: Hand-written Baum-Welch EM, Viterbi decoding, log-domain ca
 - The trade-off between model interpretability and predictive performance
 - Limitation of first-order Markov assumption on degradation modelling
 - Numerical stability trick: log-domain probability calculation to avoid underflow
+
+
+
